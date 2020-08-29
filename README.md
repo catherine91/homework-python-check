@@ -4,7 +4,7 @@
 
 - [x] Fork this repository so you have your own copy to work on.
 - [x] Clone the repository on your local machine. 
-- [ ] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
+- [x] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
 - [x] Edit this README.md file on your machine.
 - [x] Push your changes to your GitHub repository.
 - [x] Submit a link to this GitHub repository in Canvas.
